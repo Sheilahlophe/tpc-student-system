@@ -1,0 +1,16 @@
+#Corrected Psuedocode
+DECLARE studentName AS INT
+DECLARE score AS Decimal
+
+INPUT studentName
+INPUT score
+
+START
+IF score >= 50 THEN
+   OUTPUT "studentName: "
+   OUTPUT "Result: Pass"
+ELSE
+   OUTPUT "Student Name: " 
+   OUTPUT "Result: Fail"
+ENDIF
+OUTPUT "Thank you for using the portal"

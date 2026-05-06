@@ -94,7 +94,7 @@ The pseudocode below is meant to determine whether a student has passed or faile
 START
 INPUT studentName
 INPUT
-IF score  
+IF score  THEN
    OUTPUT "Student Name: " + studentName
    OUTPUT "Result: Pass"
 ELSE
